@@ -12,3 +12,8 @@
 build
 
 **/atlassian-ide-plugin.xml
+
+# Eclipse projekt files
+.classpath
+.settings
+.project
