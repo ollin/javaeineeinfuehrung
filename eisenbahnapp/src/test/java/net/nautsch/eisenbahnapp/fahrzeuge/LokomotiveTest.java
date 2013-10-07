@@ -9,6 +9,6 @@ public class LokomotiveTest {
 
     @Test
     public void shouldConstruct() {
-        new Lokomotive();
+        new Lokomotive("Eine grosse Lokomotive");
     }
 }
