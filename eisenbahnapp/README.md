@@ -12,14 +12,16 @@ Windows:
 
     gradlew.bat eclipse
 
-Jetzt kann das Projekt in Eclipse unter
+Jetzt kann das Projekt wie folgt importiert werden:
 
 File
 -> Import
 -> Existing Java Projects into Workspace
 -> Select root directory
 -> Browse
--> <Verzeichnis auswählen mit Namen "eisenbahnapp">
+-> Verzeichnis auswählen mit Namen "eisenbahnapp"
+
+
 
 
 
