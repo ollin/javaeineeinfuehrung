@@ -1,4 +1,4 @@
-Eisenbahn Bespiel
+Eisenbahn Beispiel
 ===================
 
 um dieses Projekt als Eclipse-Projekt öffnen zu können,
